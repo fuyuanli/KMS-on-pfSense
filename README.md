@@ -12,7 +12,7 @@ All credit goes to Wind4 @ https://github.com/Wind4/vlmcsd which is a `KMS Emula
 
 ### How to Install
 From the pfSense web interface, `Diagnostics` --> `Command Prompt`... type<br>
-`curl -L meliton.github.io/kms2pfsense.sh | sh` <br>
+`curl -L https://raw.githubusercontent.com/fuyuanli/KMS-on-pfSense/master/kms2pfsense.sh | sh` <br>
 Then click `Execute` <br>
 
 ## How to Install Screenshot
